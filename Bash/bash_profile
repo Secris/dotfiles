@@ -1,0 +1,3 @@
+source ~/.bashrc
+clear
+cat ~/be_water.md
